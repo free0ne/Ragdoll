@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - torso_upper
+  - torso_lower
+  - shoulder_left
+  - arm_left
+  - shoulder_right
+  - arm_right
+  - head
+  - leg_left
+  - leg_right
+  - selectable
+  - deadlyStaff
+  - button
+  - buttonLimiter
+  - cannon
+  - projectile
+  - no_player_interaction
+  - pushable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 190797533
+    locked: 0
+  m_RenderingLayers:
+  - Default
